@@ -3,19 +3,23 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
-    <id>Opera.Developer</id>
-    <title>Opera.Developer</title>
+    <id>opera-developer</id>
+    <title>Opera Developer</title>
     <version>27.0.1689.22</version>
     <authors>Opera</authors>
     <owners>Pine Mizune</owners>
     <summary>The Opera web browser makes the Web fast and fun, giving you a better web browser experience on any computer. Opera is the fastest browser on Earth, and is completely free.</summary>
-    <description>The Opera web browser makes the Web fast and fun, giving you a better web browser experience on any computer. Opera is the fastest browser on Earth, and is completely free.</description>
-    <projectUrl>http://www.opera.com/browser/</projectUrl>
+    <description>
+The Opera web browser makes the Web fast and fun, giving you a better web browser experience on any computer. Opera is the fastest browser on Earth, and is completely free.
+
+Updated a few times per week, Opera developer gives you a sneak peek of upcoming features and experiments that might make their way into future products.
+</description>
+    <projectUrl>http://www.opera.com/developer</projectUrl>
     <tags>browser opera developer</tags>
     <!--<copyright></copyright>-->
     <licenseUrl>http://www.operasoftware.com/eula/browser</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>http://cdn.rawgit.com/pine613/chocolatey-packages/0f415a1dca1a148424693ddbef7bb6101af192b8/Opera.Developer/Opera.Developer.png</iconUrl>
+    <iconUrl>http://cdn.rawgit.com/pine613/chocolatey-packages/master/Opera.Developer/opera-developer.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
