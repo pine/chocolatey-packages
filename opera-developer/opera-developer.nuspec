@@ -19,7 +19,7 @@ Updated a few times per week, Opera developer gives you a sneak peek of upcoming
     <!--<copyright></copyright>-->
     <licenseUrl>http://www.operasoftware.com/eula/browser</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>http://cdn.rawgit.com/pine613/chocolatey-packages/master/Opera.Developer/opera-developer.png</iconUrl>
+    <iconUrl>http://cdn.rawgit.com/pine613/chocolatey-packages/master/opera-developer/opera-developer.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
