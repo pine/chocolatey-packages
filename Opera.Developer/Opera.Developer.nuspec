@@ -15,7 +15,7 @@
     <!--<copyright></copyright>-->
     <licenseUrl>http://www.operasoftware.com/eula/browser</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<iconUrl>http://cdn.rawgit.com/__CHOCO_PKG_MAINTAINER_REPO__/master/icons/Opera.Developer.png</iconUrl>-->
+    <iconUrl>http://cdn.rawgit.com/pine613/chocolatey-packages/0f415a1dca1a148424693ddbef7bb6101af192b8/Opera.Developer/Opera.Developer.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
