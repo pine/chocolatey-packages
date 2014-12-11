@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>{{PackageName}}</id>
+    <title>MassiGra</title>
+    <version>{{PackageVersion}}</version>
+    <authors>Toshi Fuku</authors>
+    <owners>Pine Mizune</owners>
+    <summary>MassiGra is simply and fast graphic viewer.</summary>
+    <description>
+MassiGra is simply and fast graphic viewer.
+
+MassiGra (マッシグラ) は、シンプルで高速な単画面型の画像ビューワです。
+</description>
+    <projectUrl>http://www.massigra.net/</projectUrl>
+    <tags>images graphics photo art</tags>
+    <licenseUrl>http://www.massigra.net/</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://cdn.rawgit.com/pine613/chocolatey-packages/master/massigra/massigra.gif</iconUrl>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
