@@ -4,15 +4,17 @@
   <metadata>
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>{{PackageName}}</id>
-    <title>Opera Beta</title>
+    <title>Opera beta</title>
     <version>{{PackageVersion}}</version>
     <authors>Opera</authors>
     <owners>Pine Mizune</owners>
     <summary>The Opera web browser makes the Web fast and fun, giving you a better web browser experience on any computer. Opera is the fastest browser on Earth, and is completely free.</summary>
     <description>
 The Opera web browser makes the Web fast and fun, giving you a better web browser experience on any computer. Opera is the fastest browser on Earth, and is completely free.
+
+Opera beta releases, updated every couple of weeks, give you the latest refinements to the Opera browser. Follow our progress and test the latest features. 
 </description>
-    <projectUrl>http://www.opera.com/ja/computer/beta</projectUrl>
+    <projectUrl>http://www.opera.com/computer/beta</projectUrl>
     <tags>browser opera beta</tags>
     <!--<copyright></copyright>-->
     <licenseUrl>http://www.operasoftware.com/eula/browser</licenseUrl>
