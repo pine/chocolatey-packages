@@ -2,7 +2,7 @@
 $version = '{{PackageVersion}}'
 $fileType = 'exe'
 $installArgs = '/install /silent /launchopera 0 /setdefaultbrowser 0'
-$url = 'http://get.geo.opera.com/pub/opera-developer/{{PackageVersion}}/win/Opera_Developer_{{PackageVersion}}_Setup.exe'
+$url = 'http://get.geo.opera.com/pub/opera-beta/{{PackageVersion}}/win/Opera_beta_{{PackageVersion}}_Setup.exe'
 
 try {
  
