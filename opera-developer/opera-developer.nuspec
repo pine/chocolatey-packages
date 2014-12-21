@@ -3,9 +3,9 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
-    <id>opera-developer</id>
+    <id>{{PackageName}}</id>
     <title>Opera Developer</title>
-    <version>27.0.1689.22</version>
+    <version>{{PackageVersion}}</version>
     <authors>Opera</authors>
     <owners>Pine Mizune</owners>
     <summary>The Opera web browser makes the Web fast and fun, giving you a better web browser experience on any computer. Opera is the fastest browser on Earth, and is completely free.</summary>
