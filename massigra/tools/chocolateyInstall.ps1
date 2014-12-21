@@ -11,7 +11,7 @@ try {
 	Write-Debug "Install Dir is $installDir"
 
 	Install-ChocolateyZipPackage $packageName $url $installDir
-	Write-ChocolateySuccess $packagename
+	Write-ChocolateySuccess $packageName
 } catch {
 	Write-ChocolateyFailure $packageName $($_.Exception.Message)
 	throw
