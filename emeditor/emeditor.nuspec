@@ -4,7 +4,7 @@
     <id>{{PackageName}}</id>
     <title>EmEditor</title>
     <version>{{PackageVersion}}</version>
-    <authors>Emurasoft, Inc.</authors>
+    <authors>Emurasoft</authors>
     <owners>Pine Mizune</owners>
     <summary>EmEditor is a fast, lightweight, yet extendable, easy-to-use text editor for Windows. Both native 64-bit and 32-bit builds are available!</summary>
     <description>
@@ -13,7 +13,7 @@ EmEditor is a fast, lightweight, yet extendable, easy-to-use text editor for Win
     <projectUrl>https://www.emeditor.com</projectUrl>
     <tags>editor</tags>
     <!--<copyright></copyright>-->
-    <licenseUrl>https://www.emeditor.com</licenseUrl>
+    <licenseUrl>https://www.emeditor.com/#toggle-id-3</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>http://cdn.rawgit.com/pine613/chocolatey-packages/master/emeditor/emeditor.png</iconUrl>
     <!--<dependencies>
