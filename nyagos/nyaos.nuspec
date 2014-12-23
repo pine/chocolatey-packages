@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>nyagos</id>
+    <title>NYAGOS</title>
+    <version>4.0.3.0</version>
+    <authors>zetamatta</authors>
+    <owners>Pine Mizune</owners>
+    <summary>NYAGOS is the commandline-shell for Windows written with the Programming Language GO and Lua.</summary>
+    <description>NYAGOS is the commandline-shell for Windows written with the Programming Language GO and Lua.</description>
+    <projectUrl>https://github.com/zetamatta/nyagos</projectUrl>
+    <tags>shell</tags>
+    <licenseUrl>http://cdn.rawgit.com/zetamatta/nyagos/master/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl></iconUrl>-->
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
