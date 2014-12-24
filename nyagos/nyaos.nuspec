@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>nyagos</id>
+    <id>{{PackageName}}</id>
     <title>NYAGOS</title>
-    <version>4.0.3.0</version>
+    <version>{{PackageVersion}}</version>
     <authors>zetamatta</authors>
     <owners>Pine Mizune</owners>
     <summary>NYAGOS is the commandline-shell for Windows written with the Programming Language GO and Lua.</summary>

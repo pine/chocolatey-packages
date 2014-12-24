@@ -1,7 +1,7 @@
-﻿$packageName = 'nyagos'
+﻿$packageName = '{{PackageName}}'
 $packageTitle = 'NYAGOS'
-$version = '4.0.3.0'
-$url = 'https://github.com/zetamatta/nyagos/releases/download/4.0.3_0/nyagos-4.0.3_0.zip'
+$version = '{{PackageVersion}}'
+$url = '{{DownloadUrl}}'
 
 try {
 	$binRoot = Get-BinRoot
