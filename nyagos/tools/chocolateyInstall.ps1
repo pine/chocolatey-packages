@@ -4,10 +4,8 @@ $version = '{{PackageVersion}}'
 $url = '{{DownloadUrl}}'
 
 try {
-	$binRoot = Get-BinRoot
-	Write-Debug "Bin Root is $binRoot"
-
-	$installDir = Join-Path $binRoot $packageTitle
+	$PSScriptRoot = Split-Path -Parent $MyInvocation.MyCommand.Definition
+	$installDir = Join-Path $PSScriptRoot $packageTitle
 	Write-Debug "Install Dir is $installDir"
 
 	Install-ChocolateyZipPackage $packageName $url $installDir
