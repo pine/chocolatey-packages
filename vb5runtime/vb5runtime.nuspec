@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>vb5runtime</id>
+    <title>Visual Basic 5.0 Runtime</title>
+    <version>5.0</version>
+    <authors>Microsoft</authors>
+    <owners>Pine Mizune</owners>
+    <summary>This package contains all the necessary files for running applications created using Visual Basic 5.0.</summary>
+    <description>
+This package contains all the necessary files for running applications created using Visual Basic 5.0. This package has been updated since the release of Visual Studio Service Pack 3, so it should provide all the files needed to run even the latest Visual Basic programs.
+</description>
+    <projectUrl>http://support2.microsoft.com/kb/180071</projectUrl>
+    <tags>runtime</tags>
+    <!--<copyright></copyright>-->
+    <!--<licenseUrl></licenseUrl>-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl></iconUrl>-->
+    <dependencies>
+      <dependency id="autohotkey_l.portable" />
+    </dependencies>
+    <!--<releaseNotes></releaseNotes>-->
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
