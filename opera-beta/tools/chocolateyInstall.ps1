@@ -11,7 +11,6 @@ try {
  
   foreach ($regPathModifier in $regPathModifierArray) {
     $regPath = "HKLM:\SOFTWARE\${regPathModifier}Microsoft\Windows\CurrentVersion\Uninstall\Opera $version"
-    Write-Output $regPath
     if (Test-Path $regPath) {
       $alreadyInstalled = $true
     }
