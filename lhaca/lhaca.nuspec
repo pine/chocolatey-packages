@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>lhaca</id>
+    <title>+Lhaca</title>
+    <version>0.76</version>
+    <authors>Tomio Murayama</authors>
+    <owners>Pine Mizune</owners>
+    <summary></summary>
+    <description>
++Lhaca is a simple file archiver that supports LHZ / ZIP format. It is very famous in Japan.
+
+ドラッグ & ドロップ操作で LZH/ZIP 形式の圧縮・解凍ができる Lhasa 風の圧縮・解凍ソフトです。
+</description>
+    <projectUrl>http://park8.wakwak.com/~app/Lhaca/</projectUrl>
+    <tags></tags>
+    <!--<licenseUrl></licenseUrl>-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://cdn.rawgit.com/pine613/chocolatey-packages/master/lhaca/lhaca.gif</iconUrl>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
