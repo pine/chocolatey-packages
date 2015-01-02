@@ -9,7 +9,7 @@ try {
   $scriptPath = Split-Path -parent $MyInvocation.MyCommand.Definition
   $ahkFile = "$scriptPath\vb5runtime.ahk"
   
-  NewItem $filePath -directory -force
+  New-Item $filePath -ItemType Directory -Force
   Get-ChocolateyWebFile $packageName $fileFullPath $url
   
   Start-Process 'AutoHotkey' $ahkFile

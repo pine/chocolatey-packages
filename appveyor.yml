@@ -7,7 +7,7 @@ install:
   - go get github.com/pine613/noel
 
 test_script:
-  - noel
+  - noel --install
  
 # what combinations to test
 
