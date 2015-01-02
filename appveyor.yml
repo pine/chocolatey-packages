@@ -8,8 +8,7 @@ install:
 
 test_script:
   - noel
-  - ps: noel
-  
+ 
 # what combinations to test
 
 

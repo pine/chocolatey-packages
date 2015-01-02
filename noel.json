@@ -1,6 +1,7 @@
 {
     "manual": [
-		"lhaca"
+		"lhaca",
+		"vb5runtime"
 	],
 	"automatic": [
 	]
