@@ -10,7 +10,7 @@
     <description>
 +Lhaca is a simple file archiver that supports LHZ / ZIP format. It is very famous in Japan.
 
-ドラッグ & ドロップ操作で LZH/ZIP 形式の圧縮・解凍ができる Lhasa 風の圧縮・解凍ソフトです。
+ドラッグ &amp; ドロップ操作で LZH/ZIP 形式の圧縮・解凍ができる Lhasa 風の圧縮・解凍ソフトです。
 </description>
     <projectUrl>http://park8.wakwak.com/~app/Lhaca/</projectUrl>
     <tags></tags>

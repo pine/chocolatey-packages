@@ -17,9 +17,8 @@ This package contains all the necessary files for running applications created u
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <!--<iconUrl></iconUrl>-->
     <dependencies>
-      <dependency id="autohotkey_l.portable" />
+      <dependency id="autohotkey.portable" />
     </dependencies>
-    <!--<releaseNotes></releaseNotes>-->
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
