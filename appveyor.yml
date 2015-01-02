@@ -2,6 +2,8 @@
 # http://www.appveyor.com/docs/appveyor-yml
 
 install:
+  - set GOPATH=%cd%
+  - set PATH=%PATH%;%cd%\bin
   - go get github.com/pine613/noel
   - noel
 
@@ -12,6 +14,6 @@ test_script:
 
 init:
   - git config --global core.autocrlf false
-
+  
 build: off
 deploy: off
