@@ -5,10 +5,11 @@ install:
   - set GOPATH=%cd%
   - set PATH=%PATH%;%cd%\bin
   - go get github.com/pine613/noel
-  - noel
 
 test_script:
-
+  - noel
+  - ps: noel
+  
 # what combinations to test
 
 
