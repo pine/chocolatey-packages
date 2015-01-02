@@ -2,7 +2,7 @@
 # http://www.appveyor.com/docs/appveyor-yml
 
 install:
-  - go get https://github.com/pine613/noel.git
+  - go get github.com/pine613/noel
   - noel
 
 test_script:
