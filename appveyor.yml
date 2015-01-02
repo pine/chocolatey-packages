@@ -4,6 +4,7 @@
 install:
   - set GOPATH=%cd%
   - set PATH=%PATH%;%cd%\bin
+	- choco install chocolateypackageupdater
   - go get github.com/pine613/noel
 
 test_script:
