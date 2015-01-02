@@ -7,7 +7,7 @@ My Chocolatey packages repository
 ## Install
 Please see my page in Chocolatey.
 
-- https://chocolatey.org/profiles/pine613
+- [Chocolatey Gallery | pine613](https://chocolatey.org/profiles/pine613)
 
 ## Chocolatey tutorial (for developer)
 You may want to see following links if you want to create a Chocolatey package.
@@ -16,6 +16,9 @@ You may want to see following links if you want to create a Chocolatey package.
 - [Chocolatey Utility Functions aka Helpers Reference](https://github.com/chocolatey/chocolatey/wiki/HelpersReference) (official)
 - [AutomaticPackages](https://github.com/chocolatey/chocolatey/wiki/AutomaticPackages) (official)
 - [Chocolateyパッケージの作り方](http://terurou.hateblo.jp/entry/2013/09/08/171151) (unofficial and written in Japanese)
+
+## Tests
+It uses [Noel](https://github.com/pine613/noel) as test runner. Noel supports both packages of manual and automatic. It uses Ketarin as backend if builds automatic packages. Noel runs on CI.
 
 ## More information
 ### Opera Developer & beta
