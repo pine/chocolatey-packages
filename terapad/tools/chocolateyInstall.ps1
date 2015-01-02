@@ -10,6 +10,7 @@ try {
   $scriptPath = Split-Path -parent $MyInvocation.MyCommand.Definition
   $ahkFile = "$scriptPath\terapad.ahk"
   
+  New-Item $filePath -Force -Directory
   Get-ChocolateyWebFile $packageName $fileFullPath $url
   
   Start-Process 'AutoHotkey' $ahkFile
