@@ -3,9 +3,10 @@
 
 install:
   - set GOPATH=%cd%
-  - set PATH=%PATH%;%cd%\bin;C:\MinGW\bin
+  - set PATH=%PATH%;%cd%\bin
   - choco install chocolateypackageupdater
-  - go get github.com/pine613/noel
+  - ps: Invoke-WebRequest -OutFile noel.zip -Uri https://github.com/pine613/noel/releases/download/v1.0.0beta1/noel_v1.0.0beta1.zip
+  - 7za e noel.zip
 
 test_script:
   - noel --install
