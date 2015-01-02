@@ -3,7 +3,7 @@
 
 install:
   - set GOPATH=%cd%
-  - set PATH=%PATH%;%cd%\bin
+  - set PATH=%PATH%;%cd%\bin;C:\MinGW\bin
   - choco install chocolateypackageupdater
   - go get github.com/pine613/noel
 
