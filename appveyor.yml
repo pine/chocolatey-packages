@@ -4,10 +4,11 @@
 install:
   - set GOPATH=%cd%
   - set PATH=%PATH%;%cd%\bin
-  - choco install chocolateypackageupdater
+	- choco install 7zip.commandline
   - ps: Invoke-WebRequest -OutFile noel.zip -Uri https://github.com/pine613/noel/releases/download/v1.0.0beta1/noel_v1.0.0beta1.zip
   - 7za e noel.zip
-
+  - choco install chocolateypackageupdater
+	
 test_script:
   - noel --install
  
