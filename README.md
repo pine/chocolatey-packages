@@ -1,5 +1,6 @@
 Chocolatey packages
 ===================
+[![Build status](https://ci.appveyor.com/api/projects/status/d0a1wabjfjxdy453/branch/master?svg=true)](https://ci.appveyor.com/project/pine613/chocolatey-packages/branch/master)
 
 My Chocolatey packages repository
 
