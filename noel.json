@@ -1,9 +1,11 @@
 {
   "manual": [
-    "lhaca",
-    "vb5runtime"
   ],
   "automatic": [
-    "opera-developer"
+    "opera-developer",
+    "opera-beta",
+    "emeditor",
+    "massigra",
+    "nyagos"
   ]
 }
