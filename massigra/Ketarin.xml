@@ -65,7 +65,7 @@
     <Enabled>true</Enabled>
     <FileHippoId />
     <LastUpdated>2012-05-23T02:09:37.7748325</LastUpdated>
-    <TargetPath>C:\Chocolatey\_work\</TargetPath>
+    <TargetPath>C:\Users\pine\AppData\Local\Temp\massigra624402139</TargetPath>
     <FixedDownloadUrl><placeholder name="Download Url - Optional" value="http://nowhere.com/nothing{version}.zip" /></FixedDownloadUrl>
     <Name><placeholder name="Name" value="MassiGra" /></Name>
   </ApplicationJob>
@@ -145,7 +145,7 @@
     <Enabled>true</Enabled>
     <FileHippoId />
     <LastUpdated>2014-12-12T08:34:18.4645874</LastUpdated>
-    <TargetPath>D:\Work\Ketarin\</TargetPath>
+    <TargetPath>C:\Users\pine\AppData\Local\Temp\massigra624402139</TargetPath>
     <FixedDownloadUrl>{url}</FixedDownloadUrl>
     <Name>massigra</Name>
   </ApplicationJob>
