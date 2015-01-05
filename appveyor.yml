@@ -3,9 +3,7 @@
 
 install:
   - set PATH=%PATH%;C:\tools\ChocolateyPackageUpdater
-  - choco install 7zip.commandline
-  - ps: Invoke-WebRequest -OutFile noel.zip -Uri https://github.com/pine613/noel/releases/download/v1.0.0beta3/noel_v1.0.0beta3.zip
-  - 7za e noel.zip
+  - ps: Invoke-WebRequest -OutFile noel.zip -Uri https://github.com/pine613/noel/releases/download/auto-release-master-e664839/noel.exe
   - choco install chocolateypackageupdater
 
 test_script:

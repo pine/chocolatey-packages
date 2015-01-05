@@ -1,10 +1,16 @@
 {
   "manual": [
+    "vb5runtime",
+    "lhaca"
   ],
   "automatic": [
     "opera-developer",
     "opera-beta",
     "massigra",
     "emeditor"
+  ],
+  "withoutInstall": [
+    "vb5runtime",
+    "lhaca"
   ]
 }
