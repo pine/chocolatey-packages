@@ -8,10 +8,12 @@
     "opera-beta",
     "massigra",
     "emeditor",
-    "nyagos"
+    "nyagos",
+    "terapad"
   ],
   "withoutInstall": [
     "vb5runtime",
-    "lhaca"
+    "lhaca",
+    "terapad"
   ]
 }
