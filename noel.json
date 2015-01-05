@@ -7,7 +7,8 @@
     "opera-developer",
     "opera-beta",
     "massigra",
-    "emeditor"
+    "emeditor",
+    "nyagos"
   ],
   "withoutInstall": [
     "vb5runtime",
