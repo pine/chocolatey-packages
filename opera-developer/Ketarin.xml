@@ -125,12 +125,12 @@
     <ExecutePreCommandType>Batch</ExecutePreCommandType>
     <Category />
     <SourceType>FixedUrl</SourceType>
-    <PreviousLocation></PreviousLocation>
+    <PreviousLocation />
     <DeletePreviousFile>true</DeletePreviousFile>
     <Enabled>true</Enabled>
     <FileHippoId />
     <LastUpdated>2014-12-21T17:13:22.4725182</LastUpdated>
-    <TargetPath>C:\Users\pine\AppData\Local\Temp\opera-developer008341403</TargetPath>
+    <TargetPath>D:\Work\Ketarin\</TargetPath>
     <FixedDownloadUrl>http://get.geo.opera.com/pub/opera-developer/{version}/win/Opera_Developer_{version}_Setup.exe</FixedDownloadUrl>
     <Name>opera-developer</Name>
   </ApplicationJob>
