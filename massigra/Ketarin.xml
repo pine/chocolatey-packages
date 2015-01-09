@@ -1,8 +1,7 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <Jobs>
   <ApplicationJob xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Guid="41daea24-fcfd-4a50-bad6-a1470bdd7c0c">
-    <SourceTemplate><![CDATA[<?xml version="1.0" encoding="utf-8"?>
-<Jobs>
+    <SourceTemplate><![CDATA[<Jobs>
   <ApplicationJob xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Guid="0fb30714-8ed0-4611-8f1b-cb8fec9dae91">
     <WebsiteUrl />
     <UserAgent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19</UserAgent>
@@ -74,7 +73,7 @@
     <UserAgent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19</UserAgent>
     <UserNotes />
     <LastFileSize>1300913</LastFileSize>
-    <LastFileDate>2014-12-12T08:34:18.4645874</LastFileDate>
+    <LastFileDate>2013-04-23T20:30:28+09:00</LastFileDate>
     <IgnoreFileInformation>false</IgnoreFileInformation>
     <DownloadBeta>Default</DownloadBeta>
     <DownloadDate xsi:nil="true" />
@@ -144,8 +143,8 @@
     <DeletePreviousFile>true</DeletePreviousFile>
     <Enabled>true</Enabled>
     <FileHippoId />
-    <LastUpdated>2014-12-12T08:34:18.4645874</LastUpdated>
-    <TargetPath>C:\Users\pine\AppData\Local\Temp\massigra624402139</TargetPath>
+    <LastUpdated>2015-01-10T00:55:04.1825549+09:00</LastUpdated>
+    <TargetPath>D:\Work\Ketarin\</TargetPath>
     <FixedDownloadUrl>{url}</FixedDownloadUrl>
     <Name>massigra</Name>
   </ApplicationJob>
