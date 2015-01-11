@@ -3,7 +3,7 @@
 
 install:
   - set PATH=%PATH%;C:\tools\ChocolateyPackageUpdater
-  - ps: Invoke-WebRequest -OutFile noel.exe -Uri https://github.com/pine613/noel/releases/download/auto-release-master-e664839/noel.exe
+  - ps: Invoke-WebRequest -OutFile noel.exe -Uri https://github.com/pine613/noel/releases/download/v1.0.1.0/noel.exe
   - choco install chocolateypackageupdater
 
 test_script:
