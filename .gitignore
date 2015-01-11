@@ -3,3 +3,4 @@
 *.log.full
 jobs.db
 _output
+*.exe
