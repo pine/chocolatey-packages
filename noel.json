@@ -1,7 +1,8 @@
 {
   "manual": [
     "vb5runtime",
-    "lhaca"
+    "lhaca",
+    "lha.portable"
   ],
   "automatic": [
     "opera-developer",
