@@ -23,3 +23,6 @@ It uses [Noel](https://github.com/pine613/noel) as test runner. Noel supports bo
 ## More information
 ### Opera Developer & beta
 It uses [OperaUpdateChecker](https://github.com/pine613/OperaUpdateChecker) to get a latest version.
+
+### NYAGOS
+It uses [Nyagos Update Checker](https://github.com/pine613/NyagosUpdateChecker) to get a latest version.
