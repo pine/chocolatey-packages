@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>lha.portable</id>
+    <title>Lha for Windows (Portable)</title>
+    <version>1.14</version>
+    <authors>Tsuguo Okamoto</authors>
+    <owners>Pine Mizune</owners>
+    <summary></summary>
+    <description>LHA is an archiving and compression utility for LHarc format archives. This unofficial version of lha is based on Version 1.00. This version supports extraction &amp; archiving using -lh5- &amp; -lh6- as well as extraction using -lh7- algorithm.
+</description>
+    <projectUrl>http://gnuwin32.sourceforge.net/packages/lha.htm</projectUrl>
+    <tags>archiver</tags>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
