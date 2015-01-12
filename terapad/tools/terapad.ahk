@@ -40,12 +40,20 @@ Loop {
     }
     
     IfWinExist, TeraPad ahk_class #32770, Press [Next] to start installation., {
+        Sleep, 100
         ControlClick, Button11, TeraPad ahk_class #32770
-        Break
     }
     
     IfWinExist, TeraPad ahk_class #32770, インストール元ファイル, {
+        Sleep, 100
         ControlClick, Button11, TeraPad ahk_class #32770
+    }
+    
+    IfWinExist, TeraPad ahk_class #32770, Copying files, {
+        Break
+    }
+    
+    IfWinExist, TeraPad ahk_class #32770, ファイルをコピー中, {
         Break
     }
     
