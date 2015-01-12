@@ -2,7 +2,8 @@
   "manual": [
     "vb5runtime",
     "lhaca",
-    "lha.portable"
+    "lha.portable",
+    "stirling"
   ],
   "automatic": [
     "opera-developer",
