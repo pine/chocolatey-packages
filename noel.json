@@ -14,7 +14,6 @@
   ],
   "withoutInstall": [
     "vb5runtime",
-    "lhaca",
-    "terapad"
+    "lhaca"
   ]
 }
