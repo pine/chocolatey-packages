@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>stirling</id>
+    <title>Stirling</title>
+    <version>1.31</version>
+    <authors>Kazushige Goto</authors>
+    <owners>Pine Mizune</owners>
+    <summary>Stirling is a very powerfull binary editor and it is defact standard in Japan.</summary>
+    <description>Stirling is a very powerfull binary editor and it is defact standard in Japan.</description>
+    <projectUrl>http://www.vector.co.jp/soft/win95/util/se079072.html</projectUrl>
+    <tags>editor</tags>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://cdn.rawgit.com/pine613/chocolatey-packages/master/stirling/stirling.png</iconUrl>
+    <dependencies>
+      <dependency id="lha.portable" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
