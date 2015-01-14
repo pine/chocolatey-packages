@@ -3,7 +3,8 @@
     "vb5runtime",
     "lhaca",
     "lha.portable",
-    "pass"
+    "pass",
+    "hidemarueditor"
   ],
   "automatic": [
     "opera-developer",
@@ -16,6 +17,7 @@
   "withoutInstall": [
     "vb5runtime",
     "terapad",
-    "lhaca"
+    "lhaca",
+    "hidemarueditor"
   ]
 }

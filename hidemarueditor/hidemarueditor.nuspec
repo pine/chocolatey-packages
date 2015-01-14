@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>hidemarueditor</id>
+    <title>Hidemaru Editor</title>
+    <version>8.42</version>
+    <authors>Saito Kikaku</authors>
+    <owners>Pine Mizune</owners>
+    <summary>Hidemaru Editor is a popular paid text editor that is used for a long in Japan.</summary>
+    <description>Hidemaru Editor is a popular paid text editor that is used for a long in Japan.</description>
+    <projectUrl>http://hide.maruo.co.jp/software/hidemaru.html</projectUrl>
+    <tags>editor</tags>
+    <!--<copyright></copyright>-->
+    <!--<licenseUrl></licenseUrl>-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://cdn.rawgit.com/pine613/chocolatey-packages/master/hidemarueditor/hidemarueditor.png</iconUrl>
+    <dependencies>
+      <dependency id="autohotkey.portable" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\*.ps1" target="tools" />
+    <file src="tools\*.ahk" target="tools" />
+  </files>
+</package>
