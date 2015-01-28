@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>xtrmruntime</id>
+    <title>XTRM Runtime</title>
+    <version>6.0</version>
+    <authors>Akihisa Higuchi</authors>
+    <owners>Pine Mizune</owners>
+    <summary>XTRM Runtime is a runtime package that supports VB v5/6 and VC++ v4/5/6.</summary>
+    <description>XTRM Runtime is a runtime package that supports VB v5/6 and VC++ v4/5/6.</description>
+    <projectUrl>http://www.smart-hacks.com/p/software.html</projectUrl>
+    <tags>runtime</tags>
+    <!--<copyright></copyright>-->
+    <!--<licenseUrl></licenseUrl>-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://cdn.rawgit.com/pine613/chocolatey-packages/master/xtrmruntime/xtrmruntime.gif</iconUrl>
+    <dependencies>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

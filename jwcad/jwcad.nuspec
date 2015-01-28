@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>jwcad</id>
+    <title>Jw_cad</title>
+    <version>8.00.1</version>
+    <authors>Jiro Shimizu &amp; Yoshifumi Tanaka</authors>
+    <owners>Pine Mizune</owners>
+    <summary>Jw_cad is a 2D CAD for engineers. It's most popular 2D CAD in Japan.</summary>
+    <description>Jw_cad is a 2D CAD for engineers. It's most popular 2D CAD in Japan.</description>
+    <projectUrl>http://www.jwcad.net/</projectUrl>
+    <tags>cad 2d</tags>
+    <!--<copyright></copyright>-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://cdn.rawgit.com/pine613/chocolatey-packages/master/jwcad/jwcad.png</iconUrl>
+    <!--<releaseNotes></releaseNotes>-->
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
