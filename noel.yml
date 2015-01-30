@@ -1,0 +1,24 @@
+manual: 
+  - vb5runtime
+  - lhaca
+  - lha.portable
+  - pass
+  - hidemarueditor
+  - stirling
+  - jwcad
+  - xtrmruntime
+
+automatic:
+  - opera-developer
+  - opera-beta
+  - massigra
+  - emeditor
+  - nyagos
+  - terapad
+
+withoutInstall:
+  - vb5runtime
+  - terapad
+  - lhaca
+  - hidemarueditor
+  - pass
