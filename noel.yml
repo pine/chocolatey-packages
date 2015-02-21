@@ -5,7 +5,6 @@ manual:
   - pass
   - hidemarueditor
   - stirling
-  - jwcad
   - xtrmruntime
 
 automatic:
@@ -15,6 +14,7 @@ automatic:
   - emeditor
   - nyagos
   - terapad
+  - jwcad
 
 withoutInstall:
   - vb5runtime
