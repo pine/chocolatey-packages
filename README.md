@@ -21,8 +21,15 @@ You may want to see following links if you want to create a Chocolatey package.
 It uses [Noel](https://github.com/pine613/noel) as test runner. Noel supports both packages of manual and automatic. It uses Ketarin as backend if builds automatic packages. Noel runs on CI.
 
 ## More information
-### Opera Developer & beta
-It uses [OperaUpdateChecker](https://github.com/pine613/OperaUpdateChecker) to get a latest version.
+In the following package, use the exclusive updating checker to get latest version.
 
-### NYAGOS
-It uses [Nyagos Update Checker](https://github.com/pine613/NyagosUpdateChecker) to get a latest version.
+|Package Name   |Repository             |
+|---------------|-----------------------|
+|opera-beta     |[OperaUpdateChecker][] |
+|opera-developer|[OperaUpdateChecker][] |
+|nyagos         |[NyagosUpdateChecker][]|
+|jwcad          |[JwcadUpdateChecker][] |
+
+[OperaUpdateChecker]: https://github.com/pine613/OperaUpdateChecker
+[NyagosUpdateChecker]: https://github.com/pine613/NyagosUpdateChecker
+[JwcadUpdateChecker]: https://github.com/pine613/JwcadUpdateChecker
