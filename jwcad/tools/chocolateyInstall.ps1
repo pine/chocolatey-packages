@@ -1,7 +1,7 @@
-﻿$packageName = 'jwcad'
-$version = '8.00.1'
+﻿$packageName = '{{PackageName}}'
+$version = '{{PackageVersion}}'
 $fileType = 'exe'
 $installArgs = '/s /v" /qn"'
-$url = 'http://www.jwcad.net/download/jww800d.exe'
+$url = '{{DownloadUrl}}'
 
 Install-ChocolateyPackage $packageName $fileType $installArgs $url
