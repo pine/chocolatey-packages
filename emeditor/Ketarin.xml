@@ -130,7 +130,7 @@
     <FileHippoId />
     <LastUpdated>2015-01-05T01:56:25.4502986+09:00</LastUpdated>
     <TargetPath>D:\Work\Ketarin\</TargetPath>
-    <FixedDownloadUrl>https://www.emurasoft.com/pub/emed32_{version}.exe</FixedDownloadUrl>
+    <FixedDownloadUrl>http://files.emeditor.com/emed32_{version}.exe</FixedDownloadUrl>
     <Name>emeditor</Name>
   </ApplicationJob>
 </Jobs>
