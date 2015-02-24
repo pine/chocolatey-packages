@@ -13,7 +13,8 @@ Please see my page in Chocolatey.
 You may want to see following links if you want to create a Chocolatey package.
 
 - [CreatePackagesQuickStart](https://github.com/chocolatey/chocolatey/wiki/CreatePackagesQuickStart) (official)
-- [Chocolatey Utility Functions aka Helpers Reference](https://github.com/chocolatey/chocolatey/wiki/HelpersReference) (official)
+- [Chocolatey Utility Functions aka Helpers Reference](https://github.com/chocolatey/choco/wiki/HelpersInstallChocolateyPackage) (official)
+  - [Chocolatey Utility Functions aka Helpers Reference](https://github.com/chocolatey/chocolatey/wiki/HelpersReference) (for choco < v0.9.9)
 - [AutomaticPackages](https://github.com/chocolatey/chocolatey/wiki/AutomaticPackages) (official)
 - [Chocolateyパッケージの作り方](http://terurou.hateblo.jp/entry/2013/09/08/171151) (unofficial and written in Japanese)
 
