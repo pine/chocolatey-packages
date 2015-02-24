@@ -6,6 +6,7 @@ manual:
   - hidemarueditor
   - stirling
   - xtrmruntime
+  - thumbsremover
 
 automatic:
   - opera-developer
