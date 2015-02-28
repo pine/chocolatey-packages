@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>vlgothic</id>
+    <title>VL Gothic Font Family</title>
+    <version>2014.12.06</version>
+    <authors>DICEY.ORG</authors>
+    <owners>Pine Mizune</owners>
+    <summary>VL Gothic is Japanese True Type Fonts.</summary>
+    <description>VL Gothic is Japanese True Type Fonts.</description>
+    <projectUrl>http://vlgothic.dicey.org</projectUrl>
+    <tags>font</tags>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+  <files>
+    <file src="tools\**\*.ps1" target="tools" />
+  </files>
+</package>
