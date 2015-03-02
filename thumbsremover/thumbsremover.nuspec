@@ -9,7 +9,7 @@
     <summary>Thumbs Remover is a user-friendly software designed to clean up Thumbs.db preview files stored on your PC.</summary>
     <description>Thumbs Remover is a user-friendly software designed to clean up Thumbs.db preview files stored on your PC.</description>
     <projectUrl>http://www.xtreme-lab.net/en/tremover.htm</projectUrl>
-    <tags>runtime</tags>
+    <tags>cleanup</tags>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>http://cdn.rawgit.com/pine613/chocolatey-packages/master/thumbsremover/thumbsremover.png</iconUrl>
     <dependencies>
