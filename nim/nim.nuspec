@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>nim</id>
+    <title>Nim Compiler</title>
+    <version>0.10.2</version>
+    <authors>Andreas Rumpf</authors>
+    <owners>Pine Mizune</owners>
+    <summary>Nim (formerly known as "Nimrod") is a compiled, garbage-collected systems programming language.</summary>
+    <description>Nim (formerly known as "Nimrod") is a compiled, garbage-collected systems programming language which has an excellent productivity/performance ratio. Nim's design focuses on efficiency, expressiveness, elegance (in the order of priority).</description>
+    <projectUrl>http://nim-lang.org</projectUrl>
+    <tags>development</tags>
+    <copyright>Copyright (c) 2006-2015 Andreas Rumpf. All rights reserved.</copyright>
+    <licenseUrl>http://nim-lang.org/question.html#how-is-nim-licensed</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://cdn.rawgit.com/pine613/chocolatey-packages/master/nim/nim.png</iconUrl>
+  </metadata>
+  <files>
+    <file src="tools\**\*.ps1" target="tools" />
+  </files>
+</package>
