@@ -1,13 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>PasS</id>
-    <title>pass</title>
+    <id>pass</id>
+    <title>PasS</title>
     <version>1.5.2</version>
     <authors>uaubn</authors>
     <owners>Pine Mizune</owners>
     <summary>PasS is Parts Arrange Support System for universal board.</summary>
-    <description>PasS is Parts Arrange Support System for universal board.</description>
+    <description>PasS is Parts Arrange Support System for universal board.
+This software is in Japanese language only.</description>
     <projectUrl>http://www.geocities.jp/uaubn/pass/</projectUrl>
     <tags>modeling engineering electronics</tags>
     <copyright>copyright (c) 2004-2014 uaubn</copyright>
@@ -15,8 +16,8 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>http://cdn.rawgit.com/pine613/chocolatey-packages/master/pass/pass.gif</iconUrl>
     <dependencies>
-      <dependency id="lha.portable" />
-      <dependency id="vb5runtime" />
+      <dependency id="lha" />
+      <dependency id="xtrmruntime" />
     </dependencies>
     <!--<releaseNotes></releaseNotes>-->
   </metadata>
