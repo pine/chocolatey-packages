@@ -72,13 +72,15 @@
     <WebsiteUrl />
     <UserAgent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19</UserAgent>
     <UserNotes />
-    <LastFileSize>32807512</LastFileSize>
-    <LastFileDate>2014-12-21T17:13:22.4725182</LastFileDate>
+    <LastFileSize>35489592</LastFileSize>
+    <LastFileDate>2015-09-26T20:41:57.7029964</LastFileDate>
     <IgnoreFileInformation>false</IgnoreFileInformation>
     <DownloadBeta>Default</DownloadBeta>
     <DownloadDate xsi:nil="true" />
     <CheckForUpdatesOnly>false</CheckForUpdatesOnly>
     <VariableChangeIndicator />
+    <HashVariable />
+    <HashType>None</HashType>
     <CanBeShared>true</CanBeShared>
     <ShareApplication>false</ShareApplication>
     <ExclusiveDownload>false</ExclusiveDownload>
@@ -125,12 +127,12 @@
     <ExecutePreCommandType>Batch</ExecutePreCommandType>
     <Category />
     <SourceType>FixedUrl</SourceType>
-    <PreviousLocation />
+    <PreviousLocation>C:\Chocolatey\_work\Opera_Developer_34.0.1996.0_Setup.exe</PreviousLocation>
     <DeletePreviousFile>true</DeletePreviousFile>
     <Enabled>true</Enabled>
     <FileHippoId />
-    <LastUpdated>2014-12-21T17:13:22.4725182</LastUpdated>
-    <TargetPath>D:\Work\Ketarin\</TargetPath>
+    <LastUpdated>2015-09-26T20:41:57.7029964</LastUpdated>
+    <TargetPath>C:\Chocolatey\_work\</TargetPath>
     <FixedDownloadUrl>http://get.geo.opera.com/pub/opera-developer/{version}/win/Opera_Developer_{version}_Setup.exe</FixedDownloadUrl>
     <Name>opera-developer</Name>
   </ApplicationJob>
