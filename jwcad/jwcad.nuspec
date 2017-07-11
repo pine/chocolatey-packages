@@ -9,7 +9,7 @@
     <summary>Jw_cad is a 2D CAD for engineers. It's most popular 2D CAD in Japan.</summary>
     <description>Jw_cad is a 2D CAD for engineers. It's most popular 2D CAD in Japan.</description>
     <projectUrl>http://www.jwcad.net/</projectUrl>
-    <tags>cad 2d</tags>
+    <tags>cad 2d admin</tags>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>http://cdn.rawgit.com/pine613/chocolatey-packages/master/jwcad/jwcad.png</iconUrl>
   </metadata>
